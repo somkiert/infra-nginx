@@ -1,4 +1,4 @@
-# Infra Nginx Config
+# Infra Nginx Config1
 
 Repository นี้เก็บไฟล์ `sbh.conf` สำหรับ Nginx reverse proxy ภายใน  
 ปัจจุบันใช้เพื่อ proxy ไปยัง 2 บริการหลัก:
